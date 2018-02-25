@@ -1,6 +1,6 @@
 # Friend-Finder
 
-Check out the deployed app on Heroku [here](https://herokuapp.com/)!
+Check out the deployed app on Heroku [here](https://cryptic-plains-85171.herokuapp.com/)!
   
  -This app uses the Express to serve 2 static HTML files and 2 API routes to get and post data.
  +This app uses Express to serve 2 static HTML files and 2 API routes to get and post data.
